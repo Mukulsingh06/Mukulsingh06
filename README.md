@@ -1,7 +1,7 @@
-<div align="center">
 # 💫 About Me:
-Hi, I'm Mukul Singh<br><br>Aspiring Full-Stack Developer | B.Tech Student | Passionate Builder of Modern Web Applications<br>I enjoy transforming ideas into functional, user-centric digital products. My focus is on mastering end-to-end application development—from crafting responsive frontends to engineering efficient backend systems.<br><br>Areas of Interest<br><br>Full-Stack Web Development<br><br>Frontend Engineering & UI/UX Improvements<br><br>Backend Architecture & API Development<br><br>Cloud, DevOps basics, and deployment pipelines<br><br>Open-source contributions<br><br>Tech Stack & Tools<br><br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js, Express.js<br>Database: MongoDB, MySQL<br>Version Control: Git, GitHub<br>Other Tools: Postman, VS Code, Figma, npm<br><br>Connect With Me<br><br>Portfolio: Add link<br><br>LinkedIn: Add link<br><br>Email: Add email
+Hi, I'm Mukul Singh<br><br>Aspiring Full-Stack Developer | B.Tech Student | Passionate Builder of Modern Web Applications<br>Frontend Engineering & UI/UX Improvements<br><br>Backend Architecture & API Development<br><br>Cloud, DevOps basics, and deployment pipelines<br><br>Open-source contributions<br><br>Tech Stack & Tools<br><br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js, Express.js<br>Database: MongoDB, MySQL<br>Version Control: Git, GitHub<br>Other Tools: Postman, VS Code, Figma, npm<br><br>Connect With Me<br><br>Portfolio: Add link<br><br>LinkedIn: Add link<br><br>Email: Add email
 
+<div align="center">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://github.com/Mukulsingh06) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mukulsinghmeshew@gmail.com) 
