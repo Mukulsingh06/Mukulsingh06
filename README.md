@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Mukul Singh<br><br>Aspiring Full-Stack Developer | B.Tech Student | Passionate Builder of Modern Web Applications<br>Frontend Engineering & UI/UX Improvements<br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js, Express.js<br>Database: MongoDB, MySQL<br>Version Control: Git, GitHub<br>Other Tools: Postman, VS Code, Figma, npm, Adobe AfterEffects, Adobe Premiere Pro<br>
+# 💫 About Me: Mukul Singh
+Aspiring Full-Stack Developer | B.Tech Student | Passionate Builder of Modern Web Applications<br><br>Languages: C, C# ,C++, Java, Python<br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js, Express.js<br>Database: MongoDB, MySQL<br>Version Control: Git, GitHub<br>Other Tools: Postman, VS Code, Figma, npm, Adobe AfterEffects, Adobe Premiere Pro<br>
 
 <div align="center">
 
