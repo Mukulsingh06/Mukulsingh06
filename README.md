@@ -1,7 +1,7 @@
-# 💫 About Me: Mukul Singh
-Aspiring Full-Stack Developer | B.Tech Student | Passionate Builder of Modern Web Applications<br><br>Languages: C, C# ,C++, Java, Python<br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js, Express.js<br>Database: MongoDB, MySQL<br>Version Control: Git, GitHub<br>Other Tools: Postman, VS Code, Figma, npm, Adobe AfterEffects, Adobe Premiere Pro<br>
-
+# Mukul Singh 🧑‍💻
 <div align="center">
+Aspiring Full-Stack Developer | B.Tech Student | Passionate Builder of Modern Web Applications<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://github.com/Mukulsingh06) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mukulsinghmeshew@gmail.com) 
