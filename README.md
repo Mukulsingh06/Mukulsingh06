@@ -14,7 +14,7 @@ Aspiring Full-Stack Developer | B.Tech Student | Passionate Builder of Modern We
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukulsingh06&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mukulsingh06)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mukulsingh06)]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
